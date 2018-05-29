@@ -17,6 +17,9 @@ $$ \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 <br>
 
 Shown below in the complete graph on five vertices $$ K_n $$.
-<p align ="center">
-(/img/LaTeX-TikZ/pentagon.svg)
+
+<p align="center">
+
+<img src="https://hteriknek.github.io/mathemattic/img/LaTeX-TikZ/pentagon.svg">
+
 </p>
